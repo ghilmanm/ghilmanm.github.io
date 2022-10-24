@@ -1,23 +1,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Hello Friend NG</title>
-        <link>localhost/posts/</link>
-        <description>Recent content in Posts on Hello Friend NG</description>
+        <title>Posts on Muhammad Ghilman Firdaus</title>
+        <link>https://ghilmanm.github.io/posts/</link>
+        <description>Recent content in Posts on Muhammad Ghilman Firdaus</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Tue, 27 Sep 2022 16:19:04 +0700</lastBuildDate>
-        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ghilmanm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>My First Post</title>
-            <link>localhost/posts/my-first-post/</link>
+            <link>https://ghilmanm.github.io/posts/my-first-post/</link>
             <pubDate>Tue, 27 Sep 2022 16:19:04 +0700</pubDate>
             
-            <guid>localhost/posts/my-first-post/</guid>
+            <guid>https://ghilmanm.github.io/posts/my-first-post/</guid>
             <description>Ini judul post bold italic</description>
             <content type="html"><![CDATA[<h2 id="ini-judul-post">Ini judul post</h2>
 <p><strong>bold</strong> <em>italic</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title></title>
+            <link>https://ghilmanm.github.io/posts/untitled-1/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            
+            <guid>https://ghilmanm.github.io/posts/untitled-1/</guid>
+            <description>git submodule add https://github.com/ghilmanm/ghilmanm.github.io.git
+git submodule add -b main https://github.com/ghilmanm/ghilmanm.github.io.git public</description>
+            <content type="html"><![CDATA[<p>git submodule add <a href="https://github.com/ghilmanm/ghilmanm.github.io.git">https://github.com/ghilmanm/ghilmanm.github.io.git</a></p>
+<p>git submodule add -b main <a href="https://github.com/ghilmanm/ghilmanm.github.io.git">https://github.com/ghilmanm/ghilmanm.github.io.git</a> public</p>
 ]]></content>
         </item>
         
